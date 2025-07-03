@@ -9,4 +9,8 @@
     <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Fundo.Infrastructure\Fundo.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>
